@@ -1,0 +1,2 @@
+# ML-Deteccion_de_fraudes_electronicos_en_entidades_financieras
+El desarrollo de las nuevas tecnologías hace que las entidades financieras avancen a la par con ellas y ofrezcan a sus clientes diversos medios y aplicaciones que les faciliten realizar sus transacciones financieras, sin embargo, esto es atractivo no solo para los clientes sino también para los defraudadores pues hace que cada vez existan más maneras de cometer fraudes.
