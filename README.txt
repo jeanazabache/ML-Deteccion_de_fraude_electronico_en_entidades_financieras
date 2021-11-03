@@ -1,4 +1,4 @@
-- DETECCION DE FRAUDE ELECTRONICO - 
+- DETECCIÓN DE FRAUDE ELECTRÓNICO - 
 
 En este proyecto, se analiza un conjunto de datos de transacciones con tarjetas de crédito realizadas durante un período de dos días. El conjunto de datos contiene 284.807 transacciones, de las cuales 492 la cual seria el 0,17% son fraudulentas.
 Cada transacción tiene 30 características, todas ellas numéricas. Las características V1 a  V 28 son el resultado de una transformación PCA, para poder proteger la confidencialidad por ello la información básica sobre estas funciones no está disponible. La función Tiempo contiene el tiempo transcurrido desde la primera transacción, y la función Monto contiene el monto de la transacción. La variable de respuesta, Clase, es 1 en el caso de fraude y 0 en caso contrario.
